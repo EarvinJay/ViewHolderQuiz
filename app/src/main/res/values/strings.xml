@@ -4,4 +4,21 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+    <string-array name="movie_titles">
+        <item>AngryBirds</item>
+        <item>Deadpool</item>
+        <item>Finding Dory</item>
+        <item>Kung Fu Panda 3</item>
+        <item>X-men Apocalypse</item>
+        <item>Captain America Civil War</item>
+        <item>Jungle Book</item>
+        <item>Fan</item>
+        <item>Airlift</item>
+        <item>Moana</item>
+
+
+
+
+    </string-array>
 </resources>
